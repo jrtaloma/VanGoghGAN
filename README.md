@@ -16,7 +16,7 @@ it was not easy to find an appropriate dataset that could train the GAN in a cor
 a whole artistic current, not only one artist. In this way we have included more than 20 impressionists to enlarge the dataset.
 
 ## Dataset
-2840 landscapes by 24 artists collected from [wikiart.org](www.wikiart.org).
+2840 landscapes by 24 artists collected from [wikiart.org](https://www.wikiart.org/).
 
 **Boudin**: 145,
 **Caillebotte**: 58,
