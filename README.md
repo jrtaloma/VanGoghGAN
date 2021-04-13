@@ -6,7 +6,7 @@ Felice Massotti ([Felixmassotti](https://github.com/Felixmassotti))
 
 Daniela Moretti ([daniela1195](https://github.com/daniela1195))
 
-Redemptor Jr Laceda Taloma ([brakes312t4](https://github.com/brakes312t4))
+Redemptor Jr Laceda Taloma ([jrtaloma](https://github.com/jrtaloma))
 
 ## Abstract
 During his life Van Gogh left many unfinished sketches of landscapes. Our initial task was to paint these sketches with the intention of creating paintings never
