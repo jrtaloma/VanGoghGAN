@@ -6,7 +6,7 @@ Felice Massotti ([Felixmassotti](https://github.com/Felixmassotti))
 
 Daniela Moretti ([daniela1195](https://github.com/daniela1195))
 
-Redemptor Jr Laceda Taloma ([brakes312t4](github.com/brakes312t4))
+Redemptor Jr Laceda Taloma ([brakes312t4](https://github.com/brakes312t4))
 
 ## Abstract
 During his life Van Gogh left many unfinished sketches of landscapes. Our initial task was to paint these sketches with the intention of creating paintings never
@@ -16,7 +16,7 @@ it was not easy to find an appropriate dataset that could train the GAN in a cor
 a whole artistic current, not only one artist. In this way we have included more than 20 impressionists to enlarge the dataset.
 
 ## Dataset
-2840 landscapes by 24 artists collected from [wikiart.org](wikiart.org).
+2840 landscapes by 24 artists collected from [wikiart.org](www.wikiart.org).
 
 **Boudin**: 145,
 **Caillebotte**: 58,
@@ -47,7 +47,7 @@ a whole artistic current, not only one artist. In this way we have included more
 **Van Gogh**: 134,
 **Realists**: 47.
 
-The source code of the project, datasets (Dataset, DatasetStyle, Test) and final results are hosted on Google Drive as the work was developed with Google Colab notebooks.
+The source code of the project, datasets (Dataset, DatasetStyle, Test) and final results are hosted on Google Drive as the work is developed with Google Colab notebooks.
 
 **Link to Google Drive**: [https://drive.google.com/drive/folders/1CyEVFwQLJfaclPvtuMpgNR8CQ9SzetV1?usp=sharing](https://drive.google.com/drive/folders/1CyEVFwQLJfaclPvtuMpgNR8CQ9SzetV1?usp=sharing)
 
