@@ -13,7 +13,7 @@ During his life Van Gogh left many unfinished sketches of landscapes. Our initia
 made with a style as faithful as possible to that of Van Gogh. His famous style belongs to the movement of Post-Impressionism, with strong and decisive colors and
 brushstrokes. However during his life he approached different movements, including Impressionism. For this reason our initial task was more complicated, because
 it was not easy to find an appropriate dataset that could train the GAN in a correct way. So, finally, we have decided to relax the task and paint the sketches of
-a whole artistic current, not only one artist. In this way we have included more than 20 impressionists to enlarge the dataset.
+a whole artistic current, not only one artist. In this way we have included artworks by more than 20 impressionists to enlarge the dataset.
 
 ## Dataset
 2840 landscapes by 24 artists collected from [wikiart.org](https://www.wikiart.org/).
@@ -56,4 +56,4 @@ The source code of the project, datasets (Dataset, DatasetStyle, Test) and final
 
 [**Label-Supervised Pix2Pix**](https://github.com/brakes312t4/VanGoghGAN/blob/main/Notebooks/StylePix2Pix.ipynb)
 
-**CycleGAN**
+[**CycleGAN**](https://github.com/jrtaloma/VanGoghGAN/blob/main/Notebooks/CycleGAN.ipynb)
