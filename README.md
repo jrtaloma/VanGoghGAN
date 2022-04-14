@@ -4,7 +4,7 @@ Group project for [Data Mining Master's Course 2020-2021](https://corsidilaurea.
 ### Team members
 Felice Massotti ([Felixmassotti](https://github.com/Felixmassotti))
 
-Daniela Moretti ([daniela1195](https://github.com/daniela1195))
+Daniela Moretti ([danymrt](https://github.com/danymrt))
 
 Redemptor Jr Laceda Taloma ([jrtaloma](https://github.com/jrtaloma))
 
